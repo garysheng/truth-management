@@ -13,10 +13,11 @@ Every file functions as prompt engineering for your team. Outdated, contradictor
 ## Implementation Guidelines
 
 ### Maintain Truth Integrity
+- **Truth begets truth**: Each file is source material for future files—issues compound as your system grows
 - **No contradictions**: Files must be logically consistent with each other
 - **Clear conditionals**: If a piece of guidance is situational, make conditions explicit
 - **Reality check**: When strategy changes, update affected files immediately
-- **Issue-driven updates**: When problems trace to documented guidance, fix the source
+- **Issue-driven updates**: When operational problems trace to documented guidance, fix the source
 
 ### Prune Ruthlessly
 - **Delete without fear**: Source control preserves history and reasoning for all changes—you can always recover what you need

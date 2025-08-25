@@ -14,13 +14,13 @@ Create institutional coherence by documenting the philosophical foundations, ope
 
 ## Why Truth Management Matters
 
-Most individuals operate from unconscious, contradictory principles assembled randomly through social media fragments and inherited assumptions. 
+To change the world meaningfully, individuals and organizations must be deeply grounded in a foundation of truth—their assumptions about reality, motivating narrative, and decision-making frameworks. Without this grounding, individuals operate from unconscious contradictions and organizations suffer from misaligned assumptions that create coordination failures.
 
-Most organizations suffer from information silos, inconsistent messaging, and directional whiplash as they scale.
+**'Truth management' solves this by systematically documenting and evolving shared understanding of what matters to the individual or organization's success.** When truth is made explicit through version-controlled documentation, scattered assumptions are replaced by coherent foundations for aligned action for every human and AI involved.
 
-**Truth management solves coordination problems through documentation.**
+When truth management is done well, actions taken by humans and AIs move the ball forward rather than increasing internal friction and disalignment.
 
-When people share explicit understanding of core principles, decision-making frameworks, and operational realities, individual initiative amplifies collective purpose rather than creating internal friction.
+→ **[Read the full argument: Why Truth Management Matters](why-truth-management-matters.md)**
 
 ---
 

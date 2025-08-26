@@ -15,7 +15,7 @@ Information hoarding is rational when sharing has no upside and potential downsi
 ### Grant Executive Authority
 - **Challenge power**: Truth manager can request information from any department and challenge inconsistencies at any level
 - **Ruthless curation**: Authority to prune outdated files, consolidate redundancy, and reject low-value documentation requests
-- **Anti-fiefdom enforcement**: CEO actively breaks up information silos rather than just talking about transparency
+- **Anti-fiefdom enforcement**: Truth manager actively breaks up information silos rather than just talking about transparency
 
 ### Align Incentives
 - **Performance metrics**: Include "contribution to organizational truth" in reviews and bonuses

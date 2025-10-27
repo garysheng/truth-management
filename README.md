@@ -36,6 +36,7 @@ Core operating principles for effective truth management:
 - **[Don't Assume Common Sense](principles/dont-assume-common-sense.md)** - Remove "common sense" from your vocabulary—only shared understanding exists
 - **[Empower Your Truth Manager](principles/empower-your-truth-manager.md)** - Truth management requires real authority to enforce organizational coherence
 - **[Make Every File Count](principles/make-every-file-count.md)** - Every document must actively support right action with minimal noise
+- **[Protect Your Truth](principles/protect-your-truth.md)** - Match security controls to sensitivity levels—your strategic thinking is your competitive advantage
 
 ### **[Processes](processes/)**
 Systematic workflows for implementing truth management:

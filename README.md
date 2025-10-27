@@ -2,6 +2,8 @@
 
 **Truth management** is the discipline of systematically documenting and organizing the conceptual frameworks that guide decision-making—whether for individuals or organizations. It's about creating shared vocabularies, explicit principles, and coherent worldviews that enable aligned action.
 
+> **Note on terminology**: "Truth" here encompasses both your operational assumptions (working beliefs that guide action) and discovered realities (what you've learned actually works in practice). It's the full set of premises—both provisional and proven—that an individual or organization uses to navigate the world effectively.
+
 The framework applies across two primary scopes:
 
 ### **Personal Truth Management**
@@ -21,6 +23,28 @@ To change the world meaningfully, individuals and organizations must be deeply g
 When truth management is done well, actions taken by humans and AIs move the ball forward rather than increasing internal friction and disalignment.
 
 → **[Read the full argument: Why Truth Management Matters](why-truth-management-matters.md)**
+
+---
+
+## Repository Structure
+
+This repository demonstrates truth management in practice through organized documentation:
+
+### **[Principles](principles/)**
+Core operating principles for effective truth management:
+- **[Align Before Committing](principles/align-before-committing.md)** - Never start meaningful projects without explicit, documented alignment
+- **[Don't Assume Common Sense](principles/dont-assume-common-sense.md)** - Remove "common sense" from your vocabulary—only shared understanding exists
+- **[Empower Your Truth Manager](principles/empower-your-truth-manager.md)** - Truth management requires real authority to enforce organizational coherence
+- **[Make Every File Count](principles/make-every-file-count.md)** - Every document must actively support right action with minimal noise
+
+### **[Processes](processes/)**
+Systematic workflows for implementing truth management:
+- **[Start Your Company Bible](processes/start-your-company-bible.md)** - Build comprehensive documentation that captures your organization's "way" through detailed success and failure stories
+- **[Podcast-Artifact-Influence Flywheel](processes/podcast-artifact-influence-flywheel.md)** - Transform strategic conversations into reusable organizational artifacts while growing influence
+
+### **[Prompts](prompts/)**
+Templates and guidance for creating truth management systems:
+- **[Personal Truth Management](prompts/personal.md)** - Template for helping others start their own truth management repositories
 
 ---
 

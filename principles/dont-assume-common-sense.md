@@ -1,4 +1,4 @@
-# Don't Assume Common Sense
+# **Don't Assume Common Sense**
 
 Remove "common sense" from your vocabulary. It doesn't exist—only shared understanding built through explicit documentation.
 
@@ -6,41 +6,45 @@ The test: *Pick 10 random people in any city and ask them about almost any topic
 
 The answer is no—which is why assuming common sense creates massive operational failures.
 
-## Why This Matters
+## **Why This Matters**
 
 When you tell employees to "treat customers well" or "maintain quality standards" without explicit documentation, you're forcing them to fill gaps with personal assumptions. The variance in how reasonably smart, well-intentioned people interpret these directives can be enormous—even among people who've succeeded at previous companies.
 
 This variance destroys consistency as you scale. Your customer experience becomes a lottery based on which employee they encounter.
 
-## The Hidden Cost of "Common Sense"
+## **The Hidden Cost of "Common Sense"**
 
 Every undocumented expectation becomes a source of:
+
 - **Inconsistent service delivery** as new hires guess what you mean
 - **Training inefficiency** as managers repeat the same explanations
 - **Quality degradation** as teams grow beyond direct oversight
 - **Cultural drift** as interpretations compound over time
 
-## Implementation Guidelines
+## **What to Do Instead**
 
-### Document the Specifics
+### **Document the Specifics**
+
 - **Customer interaction protocols**: How do you actually care about customers? What does that look like in practice?
 - **Quality standards**: What specific behaviors create the experience you want?
 - **Decision-making criteria**: How should employees handle edge cases and judgment calls?
 - **Success stories**: Detailed breakdowns of exemplary work that embodies your standards
 
-### Eliminate Ambiguous Language
+### **Eliminate Ambiguous Language**
+
 - Replace "be professional" with specific behavioral expectations
 - Replace "deliver quality" with measurable standards and examples
 - Replace "good judgment" with decision frameworks and precedents
 - Replace "common sense" with explicit principles and procedures
 
-### Use AI to Scale Documentation
+### **Use AI to Scale Documentation**
+
 - Interview employees who embody your standards
 - Process conversations into training materials using AI assistance
 - Create system prompts for both human and AI agents
 - Build searchable knowledge bases from successful project examples
 
-## The Documentation Imperative
+## **What to Document**
 
 Your truth management repository should systematically capture:
 
@@ -52,7 +56,7 @@ Your truth management repository should systematically capture:
 
 Every piece of documentation should guide employees and AI agents toward consistent, aligned action.
 
-## The North Star
+## **The North Star**
 
 An organization where every employee can deliver consistent quality because they're operating from the same explicit understanding—not guessing what you mean by "common sense" that never actually existed.
 

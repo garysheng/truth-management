@@ -1,6 +1,8 @@
-# Legendary Examples of Truth Management in Practice
+# Proto-Forms of Truth Management
 
-These employee handbooks and culture documents demonstrate how successful organizations have explicitly documented their operational truth to scale their culture and decision-making.
+These historical examples show how organizations attempted to document their operational truth before modern version-controlled systems. Unlike true truth management where documentation evolves in real-time through Git commits and pull requests, these were static snapshots—powerful for their time but lacking continuous evolution and collaborative refinement.
+
+What they got right: explicitly documenting assumptions, practices, and decision frameworks. What was missing: the ability to track changes, understand evolution of thinking, and update continuously as the organization learned.
 
 ## 1. MrBeast Employee Handbook
 [Full handbook](https://www.slideshare.net/slideshow/how-to-succeed-at-mrbeast-production-handbook/271808765) from the world's largest YouTube creator operation. Documents extremely specific production standards like "find the best 5-10 seconds from a video and put them in the first 3 seconds" and "make the thumbnail the most interesting part of the video." Shows how MrBeast scaled from individual creator to 250+ person operation while maintaining quality.

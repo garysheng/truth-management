@@ -51,9 +51,9 @@ Recommended tools for implementing truth management:
 - **[Source Controller](tools/source-controller.md)** - Version control platforms (e.g., GitHub) that store and evolve your truth repository
 - **[Voice Transcriber](tools/voice-transcriber.md)** - Speech-to-text tools (e.g., Wispr Flow) that lower the friction between thinking and documenting
 
-### **[Prompts](prompts/)**
-Templates and guidance for creating truth management systems:
-- **[Personal Truth Management](prompts/personal.md)** - Template for helping others start their own truth management repositories
+### **[Examples](examples/)**
+Historical and contemporary examples of truth management:
+- **[Proto-Forms](examples/proto-forms.md)** - Historical examples (MrBeast handbook, Netflix culture deck, IBM beliefs) showing early attempts at documenting organizational truth
 
 ---
 

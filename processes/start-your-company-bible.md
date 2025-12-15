@@ -73,7 +73,7 @@ For example, if you run Acme Consulting Group, here are some questions you might
 
 - How does a good consultant plan their mornings?
 - What does quality on-site time look like in practice?
-- When and how do you take clients to lunch?a
+- When and how do you take clients to lunch?
 - How do you interact with other members of the client's staff?
 - What principles guide you through tricky interpersonal situations?
 - How do you say goodbye and follow up after site visits?

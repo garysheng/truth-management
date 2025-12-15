@@ -44,6 +44,12 @@ Systematic workflows for implementing truth management:
 - **[Start Your Company Bible](processes/start-your-company-bible.md)** - Build comprehensive documentation that captures your organization's "way" through detailed success and failure stories
 - **[Podcast-Artifact-Influence Flywheel](processes/podcast-artifact-influence-flywheel.md)** - Transform strategic conversations into reusable organizational artifacts while growing influence
 - **[Migrate to Refactorable Systems](processes/migrate-to-refactorable-systems.md)** - Move from siloed tools to grep-able, version-controlled formats AI agents can work with directly
+- **[Truth as Context](processes/truth-as-context.md)** - Ensure AI agents have full organizational context when creating or modifying documentation
+
+### **[Tools](tools/)**
+Recommended tools for implementing truth management:
+- **[Source Controller](tools/source-controller.md)** - Version control platforms (e.g., GitHub) that store and evolve your truth repository
+- **[Voice Transcriber](tools/voice-transcriber.md)** - Speech-to-text tools (e.g., Wispr Flow) that lower the friction between thinking and documenting
 
 ### **[Prompts](prompts/)**
 Templates and guidance for creating truth management systems:

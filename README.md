@@ -1,6 +1,6 @@
 # Introducing 'Truth Management'
 
-**Truth management** is the discipline of systematically documenting and organizing the conceptual frameworks that guide decision-making—whether for individuals or organizations. It's about creating shared vocabularies, explicit principles, and coherent worldviews that enable aligned action.
+**Truth management** is the discipline of systematically documenting and organizing the conceptual frameworks that guide decision-making—whether for individuals or organizations. It's about creating shared vocabularies, explicit principles, and coherent worldviews that enable aligned action by both humans and AI agents.
 
 > **Note on terminology**: "Truth" here encompasses both your operational assumptions (working beliefs that guide action) and discovered realities (what you've learned actually works in practice). It's the full set of premises—both provisional and proven—that an individual or organization uses to navigate the world effectively.
 
@@ -9,8 +9,8 @@ The framework applies across two primary scopes:
 ### **Personal Truth Management**
 Document your evolving approach to life decisions. What principles guide your choices? How did you develop these frameworks? How do they integrate across relationships, work, money, and meaning? Version control your life philosophy to evolve intentionally, rather than by accident.
 
-### **Organizational Truth Management** 
-Create institutional coherence by documenting the philosophical foundations, operational realities, and strategic contexts that define how your organization operates. Eliminate the "fog of war" that fragments growing teams by establishing clear, accessible organizational truth.
+### **Organizational Truth Management**
+Create institutional coherence by documenting the philosophical foundations, operational realities, and strategic contexts that define how your organization operates. Eliminate the "fog of war" that fragments growing teams by establishing clear, accessible organizational truth. When your truth is explicit and version-controlled, AI agents can read, understand, and act on it—making your entire organization refactorable with a single prompt.
 
 ---
 
@@ -37,11 +37,13 @@ Core operating principles for effective truth management:
 - **[Empower Your Truth Manager](principles/empower-your-truth-manager.md)** - Truth management requires real authority to enforce organizational coherence
 - **[Make Every File Count](principles/make-every-file-count.md)** - Every document must actively support right action with minimal noise
 - **[Protect Your Truth](principles/protect-your-truth.md)** - Match security controls to sensitivity levels—your strategic thinking is your competitive advantage
+- **[Make Your Company Refactorable](principles/make-your-company-refactorable.md)** - Can you grep and edit your entire company OS with an agent call? If not—why?
 
 ### **[Processes](processes/)**
 Systematic workflows for implementing truth management:
 - **[Start Your Company Bible](processes/start-your-company-bible.md)** - Build comprehensive documentation that captures your organization's "way" through detailed success and failure stories
 - **[Podcast-Artifact-Influence Flywheel](processes/podcast-artifact-influence-flywheel.md)** - Transform strategic conversations into reusable organizational artifacts while growing influence
+- **[Migrate to Refactorable Systems](processes/migrate-to-refactorable-systems.md)** - Move from siloed tools to grep-able, version-controlled formats AI agents can work with directly
 
 ### **[Prompts](prompts/)**
 Templates and guidance for creating truth management systems:
@@ -53,10 +55,10 @@ Templates and guidance for creating truth management systems:
 
 I'm Gary Sheng, a software engineer, educator, and movement builder passionate about helping individuals and organizations create alignment through systematic truth management. I've seen how documentation systems determine whether businesses succeed or fail.
 
-This work emerges from observing that competitive advantage increasingly comes from organizational capability rather than just proprietary technology. The organizations that thrive maintain coherence while adapting rapidly to change.
+This work emerges from observing that competitive advantage increasingly comes from organizational capability rather than just proprietary technology. As AI agents become integral to how work gets done, organizations with well-documented truth gain compounding advantages—their agents operate from the same foundations as their humans, enabling coordinated action at unprecedented speed.
 
 **When done well, truth management is the ultimate force-multiplier.**
 
 ---
 
-*This repository demonstrates truth management in practice by systematically documenting the ontology of truth management itself. It serves as both explanation and example—showing how to create coherent vocabulary, principles, and knowledge around any domain.*
+*This repository demonstrates truth management in practice by systematically documenting the ontology of truth management itself. It serves as both explanation and example—showing how to create coherent vocabulary, principles, and knowledge around any domain that both humans and AI agents can act on.*
